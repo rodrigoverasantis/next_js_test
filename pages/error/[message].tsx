@@ -1,12 +1,12 @@
 import { Typography } from "@mui/material";
 import type { NextPage } from "next";
 
-const Home: NextPage = () => {
+const Error: NextPage = () => {
 	return (
 		<div>
-			<Typography>HOME!</Typography>
+			<Typography>ERROR!</Typography>
 		</div>
 	)
 }
 
-export default Home;
+export default Error;
